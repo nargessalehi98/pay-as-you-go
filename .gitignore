@@ -1,0 +1,18 @@
+### Django ###
+*.log
+*.pyc
+__pycache__/
+local_settings.py
+
+*.sqlite3
+.vscode
+.idea
+
+# Distribution / packaging
+venv/
+
+# Environments
+.env
+.venv
+
+dockerignore/
